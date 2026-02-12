@@ -47,7 +47,7 @@ This repository helps identify:
 
 ------------------------------------------------------------------------
 
-## 🔍 Keywords (SEO Optimized)
+## 🔍 Keywords 
 
 Azure SQL performance tuning, Azure SQL monitoring scripts,\
 sys.dm_exec_query_stats example, Azure SQL error log query,\
